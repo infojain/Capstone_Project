@@ -1,4 +1,4 @@
-# Overall analysis and implementation plan - Deshant jain
+# Overall analysis and implementation plan 
 
 - ID - Drop - All values unique
 - User_ID - Drop - PII - mobile number - we do not use Personal Information Identifiers in machine learning features
